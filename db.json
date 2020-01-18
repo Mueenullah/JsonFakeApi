@@ -10,7 +10,7 @@
       "itemName": "Mountain fox notebook",
       "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
       "price": 18.09,
-      "likes": 3,
+      "likes": 5,
       "comments": [
         {
           "commenterId": 12,
@@ -27,10 +27,10 @@
         "username": "feqoo",
         "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me_3.jpg"
       },
-      "itemName": "Mountain fox notebook",
-      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
-      "price": 18.09,
-      "likes": 1,
+      "itemName": "Views from the six...",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/downtown.jpg",
+      "price": 13.2,
+      "likes": 3,
       "comments": [
         {
           "commenterId": 13,
@@ -47,10 +47,10 @@
         "username": "nass nado",
         "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png"
       },
-      "itemName": "Mountain fox notebook",
-      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
-      "price": 18.09,
-      "likes": 0,
+      "itemName": "Current mood",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/puppers.jpg",
+      "price": 10.0,
+      "likes": 1,
       "comments": [
         {
           "commenterId": 14,
