@@ -49,10 +49,10 @@
       "author": {
         "id": 5,
         "username": "nass nado",
-        "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png"
+        "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/pug_personal.jpg"
       },
       "itemName": "Current mood",
-      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/pug_personal.jpg",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/puppers.jpg",
       "price": 10.0,
       "likes": 1,
       "disliked":true,
