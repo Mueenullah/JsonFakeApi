@@ -1,0 +1,64 @@
+{
+  "feedItems": [
+    {
+      "id": 1,
+      "author": {
+        "id": 3,
+        "username": "gabriel",
+        "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png"
+      },
+      "itemName": "Mountain fox notebook",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
+      "price": 18.09,
+      "likes": 3,
+      "comments": [
+        {
+          "commenterId": 12,
+          "commenterName": "nadeem",
+          "commenterAvatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me_3.jpg",
+          "comment": "wow! nice photo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": {
+        "id": 4,
+        "username": "feqoo",
+        "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me_3.jpg"
+      },
+      "itemName": "Mountain fox notebook",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
+      "price": 18.09,
+      "likes": 1,
+      "comments": [
+        {
+          "commenterId": 13,
+          "commenterName": "user13",
+          "commenterAvatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png",
+          "comment": "Ash to thai daz han na.."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": {
+        "id": 5,
+        "username": "nass nado",
+        "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png"
+      },
+      "itemName": "Mountain fox notebook",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
+      "price": 18.09,
+      "likes": 0,
+      "comments": [
+        {
+          "commenterId": 14,
+          "commenterName": "fida",
+          "commenterAvatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png",
+          "comment": "Sakhat theganu sho."
+        }
+      ]
+    }
+  ]
+}
