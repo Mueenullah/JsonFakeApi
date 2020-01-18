@@ -11,6 +11,8 @@
       "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
       "price": 18.09,
       "likes": 5,
+      "disliked":false,
+      "liked":true,
       "comments": [
         {
           "commenterId": 12,
@@ -31,6 +33,8 @@
       "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/downtown.jpg",
       "price": 13.2,
       "likes": 3,
+      "disliked":false,
+      "liked":false,
       "comments": [
         {
           "commenterId": 13,
@@ -48,9 +52,11 @@
         "avatarUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png"
       },
       "itemName": "Current mood",
-      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/puppers.jpg",
+      "imageUrl": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/pug_personal.jpg",
       "price": 10.0,
       "likes": 1,
+      "disliked":true,
+      "liked":false,
       "comments": [
         {
           "commenterId": 14,
